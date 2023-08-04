@@ -1,6 +1,8 @@
 import { Ex2_startProgram } from "./EX_02";
 
 export function index_Class_Instance(): void {
+// Exercise 01
+
 // Exercise 02
 /*
 Exercise 02
@@ -20,5 +22,7 @@ Price: 142800
 Color: White
 Category: SUV
  */
-  Ex2_startProgram();
+
+  // Ex2_startProgram();
+
 }
