@@ -7,7 +7,7 @@ type Props = {}
 const NotFound:React.FC = () => {
   return (
     <div>
-      <img src={Image.NotFound} S/>
+      <img src={Image.NotFound} />
 
     </div>
   )
